@@ -106,8 +106,8 @@
       "role": "admin"
     },
     {
-      "username": "t",
-      "password": "t",
+      "username": "c",
+      "password": "c",
       "role": "operator"
     }
   ],
@@ -136,5 +136,12 @@
         "backup_restore"
       ]
     }
-  ]
+  ],
+  "__sync_cfg": {
+    "repo": "shrikantnayakin/index.html",
+    "branch": "main",
+    "file": "taskflow-data.json",
+    "pollInterval": "60",
+    "enabled": true
+  }
 }
