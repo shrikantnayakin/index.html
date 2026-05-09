@@ -1,0 +1,140 @@
+{
+  "tf_tasks": [
+    {
+      "id": "mooctrki1cgo",
+      "no": 1,
+      "addedOn": "28/Apr/2026",
+      "addedBy": "Shrikant Nayak",
+      "category": "Training",
+      "point": "Plan and Schedule team Training session.",
+      "subPoints": [
+        "WMS training"
+      ],
+      "owner": "Shrikant",
+      "status": "Open",
+      "dueDate": "2026-05-12",
+      "comments": "",
+      "ref": "",
+      "modifiedBy": "s",
+      "modifiedOn": "08 May 2026"
+    },
+    {
+      "id": "moqf7akkrq7k",
+      "no": 2,
+      "addedOn": "04 May 2026",
+      "addedBy": "Shrikant Nayak",
+      "category": "Data Analysis",
+      "point": "Data Analysis and Cleaning",
+      "subPoints": [],
+      "owner": "Shrikant",
+      "status": "Open",
+      "dueDate": "2026-05-31",
+      "comments": "",
+      "ref": "",
+      "modifiedBy": "s",
+      "modifiedOn": "08 May 2026"
+    },
+    {
+      "id": "moqfbnnvs8sh",
+      "no": 3,
+      "addedOn": "04 May 2026",
+      "addedBy": "Shrikant Nayak",
+      "category": "Operations",
+      "point": "Updated RCA Need to update in Salesforce",
+      "subPoints": [],
+      "owner": "Shrikant",
+      "status": "Open",
+      "dueDate": "2026-05-31",
+      "comments": "",
+      "ref": ""
+    },
+    {
+      "id": "moqfdanl8ah0",
+      "no": 4,
+      "addedOn": "04 May 2026",
+      "addedBy": "Shrikant Nayak",
+      "category": "Operations",
+      "point": "Case audit track update from activity to case history in Salesforce",
+      "subPoints": [],
+      "owner": "Shrikant",
+      "status": "Open",
+      "dueDate": "2026-05-31",
+      "comments": "",
+      "ref": "",
+      "modifiedBy": "s",
+      "modifiedOn": "08 May 2026"
+    },
+    {
+      "id": "mor5siwnkflk",
+      "no": 5,
+      "addedOn": "04 May 2026",
+      "addedBy": "Shrikant Nayak",
+      "category": "Data Analysis",
+      "point": "Remove name from Audit form",
+      "subPoints": [],
+      "owner": "Shrikant",
+      "status": "Done",
+      "dueDate": "",
+      "comments": "",
+      "ref": "",
+      "modifiedBy": "s",
+      "modifiedOn": "08 May 2026"
+    }
+  ],
+  "tf_categories": [
+    "Operations",
+    "Data Analysis",
+    "Training"
+  ],
+  "tf_statuses": [
+    "Open",
+    "In Progress",
+    "Done",
+    "Cancelled"
+  ],
+  "tf_owners": [
+    "Rohit",
+    "Shrikant"
+  ],
+  "tf_members": [
+    "Rohit"
+  ],
+  "tf_users": [
+    {
+      "username": "s",
+      "password": "s",
+      "role": "admin"
+    },
+    {
+      "username": "t",
+      "password": "t",
+      "role": "operator"
+    }
+  ],
+  "tf_roles": [
+    {
+      "name": "admin",
+      "permissions": [
+        "add_task",
+        "edit_task",
+        "delete_task",
+        "change_status",
+        "export",
+        "pivot",
+        "manage_data",
+        "manage_users",
+        "manage_roles",
+        "manage_backup"
+      ]
+    },
+    {
+      "name": "operator",
+      "permissions": [
+        "change_status",
+        "export",
+        "pivot",
+        "backup_restore"
+      ]
+    }
+  ]
+}
