@@ -155,7 +155,9 @@
       "username": "t",
       "password": "t",
       "role": "operator",
-      "owners": []
+      "owners": [
+        "Triloki"
+      ]
     },
     {
       "username": "s",
