@@ -109,6 +109,15 @@
       "username": "c",
       "password": "c",
       "role": "operator"
+    },
+    {
+      "username": "t",
+      "password": "t",
+      "role": "operator",
+      "owners": [
+        "Rohit",
+        "Shrikant"
+      ]
     }
   ],
   "tf_roles": [
