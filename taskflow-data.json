@@ -166,6 +166,12 @@
       "owners": [
         "Shivam"
       ]
+    },
+    {
+      "username": "r",
+      "password": "r",
+      "role": "admin",
+      "owners": []
     }
   ],
   "tf_roles": [
