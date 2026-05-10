@@ -116,8 +116,9 @@
     }
   ],
   "tf_categories": [
-    "Operations",
     "Data Analysis",
+    "Operations",
+    "Process",
     "Training"
   ],
   "tf_statuses": [
