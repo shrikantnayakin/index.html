@@ -149,7 +149,9 @@
       "username": "c",
       "password": "c",
       "role": "operator",
-      "owners": []
+      "owners": [
+        "Chetan"
+      ]
     },
     {
       "username": "t",
